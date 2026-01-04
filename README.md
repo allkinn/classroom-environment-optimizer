@@ -103,7 +103,7 @@ With 30% ventilation increase:
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/classroom-environment-optimizer.git
+git clone https://github.com/allkinn/classroom-environment-optimizer.git
 cd classroom-environment-optimizer
 
 # Install dependencies
@@ -189,19 +189,19 @@ def calculate_comfort_score(parameters):
 ### Visualizations
 
 #### Time Series Analysis
-![Time Series](time_series.png)
+![Time Series](images/time_series.png)
 *30-day environmental parameter trends*
 
 #### Correlation Matrix
-![Correlation](correlation_heatmap.png)
+![Correlation](images/correlation_heatmap.png)
 *Key insight: CO2 strongly correlates with occupancy (r=0.82)*
 
 #### Comfort Score Distribution
-![Distributions](distributions.png)
+![Distributions](images/distributions.png)
 *Left: Current conditions | Right: After improvement*
 
 #### Hourly Patterns
-![Heatmaps](hourly_heatmaps.png)
+![Heatmaps](images/hourly_heatmaps.png)
 *Identifies peak problem times: 10AM-2PM weekdays*
 
 ### Statistical Summary
@@ -284,15 +284,15 @@ def calculate_comfort_score(parameters):
 
 ## 👤 Author
 
-**[Your Name]**  
+**allkinn**  
 Physics Student | Electronics & Instrumentation  
 Specializing in IoT solutions for improved learning environments
 
 **Connect:**
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com]
+- 📧 Email: yxansar@gmail.com
+- 💼 LinkedIn: -
+- 🐙 GitHub: @allkinn (https://github.com/allkinn)
+- 🌐 Portfolio: -
 
 ## 📄 License
 
@@ -303,7 +303,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🙏 Acknowledgments
 
 - **Data Standards:** WHO, ASHRAE, ANSI
-- **Inspiration:** Smart building research at [University Name]
 - **Tools:** Python community, Jupyter Project
 - **Motivation:** Creating better learning environments for all students
 
@@ -311,21 +310,21 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📊 Project Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/classroom-environment-optimizer?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/classroom-environment-optimizer?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/classroom-environment-optimizer)
+![GitHub Stars](https://img.shields.io/github/stars/allkinn/classroom-environment-optimizer?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/allkinn/classroom-environment-optimizer?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/allkinn/classroom-environment-optimizer)
 
 ---
 
 **⭐ If this project helped you or inspired your work, please consider starring the repository!**
 
-**🐛 Found a bug or have suggestions? [Open an issue](https://github.com/yourusername/classroom-environment-optimizer/issues)**
+**🐛 Found a bug or have suggestions? [Open an issue](https://github.com/allkinn/classroom-environment-optimizer/issues)**
 
-**💬 Questions? [Start a discussion](https://github.com/yourusername/classroom-environment-optimizer/discussions)**
+**💬 Questions? [Start a discussion](https://github.com/allkinn/classroom-environment-optimizer/discussions)**
 
 ---
 
 *Built with ❤️ and ☕ for better learning environments*
 
-*Last Updated: December 30, 2024*
+*Last Updated: January 04, 2026*
 ```
